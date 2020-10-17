@@ -1,0 +1,7 @@
+{
+  "name": "shehriyar",
+  "version": "1.0.0",
+  "bin": {
+    "command": "index.js"
+  }
+}
